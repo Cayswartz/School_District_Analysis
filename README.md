@@ -1,5 +1,5 @@
 # School_District_Analysis
-# Kickstarting with Excel
+# School District Analysis with Python
 
 ## Overview of the school district analysis
 

@@ -21,5 +21,4 @@
 #### Scores by school type
 
 ## Summary
-Looking at the outcomes based on goals we saw the highest sucess rate between 1000 to 4999 however 35000-39999 and 40000 to 44999 were close seconds with a 67% success rate for both.
 
